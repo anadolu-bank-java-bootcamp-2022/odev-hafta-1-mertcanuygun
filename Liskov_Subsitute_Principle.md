@@ -1,0 +1,2 @@
+# Liskov Substitude Principle
+---
